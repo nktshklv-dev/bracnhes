@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         //feature 1
         //feature 2
+        //fix for version 1.0 
         //feature 3
         //feature 4
     }
